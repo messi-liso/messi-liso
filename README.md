@@ -1,4 +1,8 @@
-## Hi there 👋
+## olá!
+
+eu me chamo joão pedro, e estou aprendendo a usar git e github.
+
+
 
 <!--
 **messi-liso/messi-liso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
